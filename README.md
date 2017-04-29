@@ -8,4 +8,7 @@
 3，引入js文件，或者直接将js复制到自己的js代码中。
 4，执行initLoop(options)方法
 5,轮播图需要的图片放在同级目录文件的img文件夹就可以了，命名为1.jpg,2.jpg ... ...
-![](http://i4.buimg.com/567571/761e92a2832e1295.png)
+![](http://i2.muimg.com/567571/56aa35f83131d407.png)
+![](http://i4.buimg.com/567571/8d76e3daeda6ee73.png)
+![](http://i4.buimg.com/567571/26ffc98de9c0836f.png)
+
