@@ -1,0 +1,28 @@
+.loopImg{ 
+	position: relative;
+	overflow: hidden;
+}
+.loopImg a{
+	position: absolute;
+	transition: filter 1s; 
+}
+#d_d{
+	position: absolute;
+	top: 88%;
+    left: 50%;
+    transform: translateX(-53%);
+	z-index: 1000;
+}
+.con{
+	width: 15px;
+	height: 15px;
+	border: 1px solid black;
+	border-radius: 10px;
+	display: inline-block;
+	margin-left: 4px;
+	margin-right: 4px;
+	background: rgba(116,116,116,0.1);
+}
+.tet{ 
+	background: rgba(116,116,116,0.9);
+}
