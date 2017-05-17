@@ -27,7 +27,7 @@ function initLoop(options){
 		im_g[i].style.height = height;
 	}
 }	
-var imc = document.getElementsByTagName('a'),//a标签
+var imc = document.querySelectorAll("a._blank"),//a标签 //此处曾经的bug已改
 	ban = document.getElementById('d_d'), //整体
 	cont = document.getElementsByClassName('con'),//li标签
     count = 0, //索引
