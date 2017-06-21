@@ -20,7 +20,9 @@
 
 邮箱 boyuanyu321@gmail.com  
 
-编辑于2017/04/29
+2017/04/29 第一版    
+2017/04/29 修复多个a标签引起的选择器失效的bug
+
 ![](http://i4.buimg.com/567571/4933a5013579de0b.png),
 ![](http://i4.buimg.com/567571/ae9844c5b0daaf27.png),
 ![](http://i4.buimg.com/567571/8a628c1e14b3e161.png)
